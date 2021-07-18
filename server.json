@@ -1,0 +1,20 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda Italiana",
+      "price": "19.75",
+      "description": "Macarrão",
+      "available": true,
+      "id": 1
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "3",
+      "price": "20.00",
+      "description": "Teste 3",
+      "available": true,
+      "id": 3
+    }
+  ]
+}
